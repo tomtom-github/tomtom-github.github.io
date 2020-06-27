@@ -11,5 +11,7 @@ WALL-E is a 2008 American computer-animated science fiction romance film produce
 * The probe returns to collect EVE and the plant, and with WALL-E clinging on, returns to its mothership, the starliner Axiom. 
 
 Famous quote (Wall-e):
-> [trying to pronounce his name] Wa... WwALL-E.
+
+> trying to pronounce his name.. 
+> Wa... WwALL-E.
 
