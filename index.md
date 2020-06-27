@@ -12,6 +12,6 @@ WALL-E is a 2008 American computer-animated science fiction romance film produce
 
 Famous quote (Wall-e):
 
-> trying to pronounce his name.. 
+> trying to pronounce his name... 
 > Wa... WwALL-E.
 
