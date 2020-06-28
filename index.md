@@ -15,3 +15,8 @@ Famous quote (Wall-e):
 > trying to pronounce his name... 
 > Wa... WwALL-E.
 
+Picture: 
+
+![This is Wall-e!](https://c1.staticflickr.com/6/5780/21179167082_6fec192588_b.jpg)
+
+<img src="https://c1.staticflickr.com/6/5780/21179167082_6fec192588_b.jpg"/>
